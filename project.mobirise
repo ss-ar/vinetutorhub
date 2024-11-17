@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Vine Tutoring Hub",
-    "currentPage": "about-us.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -51,12 +51,12 @@
       }
     ],
     "usedWebp": true,
-    "favicon": false,
-    "mbrsiteDomain": "xnl5brijjq",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon.ico",
+    "mbrsiteDomain": "es0crrzhpa",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
+    "sitemapSwitcherAuto": "on",
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
